@@ -1983,7 +1983,7 @@ function pathway() {
 	    "Void Dust": new CoinRequirement([getItemElement("Void Dust")], [{requirement: itemBaseData["Void Dust"].expense * 100}]),
 	    "Astral Necklace": new CoinRequirement([getItemElement("Astral Necklace")], [{requirement: math.pow(itemBaseData["Astral Necklace"].expense, 10)}]),
 	    "Astral Armor": new CoinRequirement([getItemElement("Astral Armor")], [{requirement: math.pow(itemBaseData["Astral Armor"].expense, 10)}]),
-	    "Celestial Sword": new CoinRequirement([getItemElement("Celestial Sword")], [{requirement: math.pow(itemBaseData["Celestial Sword"].expense, 10}]),
+	    "Celestial Sword": new CoinRequirement([getItemElement("Celestial Sword")], [{requirement: math.pow(itemBaseData["Celestial Sword"].expense, 10)}]),
 	    "Celestial Orb": new CoinRequirement([getItemElement("Celestial Orb")], [{requirement: math.pow(itemBaseData["Celestial Orb"].expense, 10)}]),
 	    "Astral Dust": new CoinRequirement([getItemElement("Astral Dust")], [{requirement: math.pow(itemBaseData["Astral Dust"].expense, 10)}]),
 	    "Celestial Robe": new CoinRequirement([getItemElement("Celestial Robe")], [{requirement: itemBaseData["Celestial Robe"].expense * 100}]),
