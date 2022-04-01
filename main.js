@@ -2181,7 +2181,7 @@ function pathway() {
 	    "Celestial Realm": new CoinRequirement([getItemElement("Celestial Realm")], [{requirement: itemBaseData["Celestial Realm"].expense * 100}]),
 	    "Void Universe": new CoinRequirement([getItemElement("Void Universe")], [{requirement: math.pow(itemBaseData["Void Universe"].expense * 10)}]),
 	    "Celestial Universe": new CoinRequirement([getItemElement("Celestial Universe")], [{requirement: itemBaseData["Celestial Universe"].expense * 100}]),
-	    "Astral Realm": new CoinRequirement([getItemElement("Astral Realm")], [{requirement: math.pow(itemBaseData["Astral Realm"].expense * 100}]),
+	    "Astral Realm": new CoinRequirement([getItemElement("Astral Realm")], [{requirement: itemBaseData["Astral Realm"].expense * 100}]),
 	    "Galactic Throne": new CoinRequirement([getItemElement("Galactic Throne")], [{requirement: itemBaseData["Galactic Throne"].expense * 100}]),
 	    "Galactic Palace": new CoinRequirement([getItemElement("Galactic Palace")], [{requirement: itemBaseData["Galactic Palace"].expense * 100}]),
 
