@@ -124,7 +124,7 @@ const skillBaseData = {
 	
     "Pure Wish": {name: "Pure Wish", maxXp: 100, effect: 0.005, description: "Good Gain"},
     "Celestial Amplification": {name: "Celestial Amplification", maxXp: 100, effect: 0.005, description: "Astral Council XP"},
-    "Inner Peace": {name: "Inner Peace", maxXp: 100, effect: 0.0005, description: "Happiness"},
+    "Inner Peace": {name: "Inner Peace", maxXp: 100, effect: 0.00005, description: "Happiness"},
     "Eternal Astral": {name: "Eternal Astral", maxXp: 100, effect: 0.000585, description: "Longer Lifespan"},
     "Astral Symbiosis": {name: "Astral Symbiosis", maxXp: 100, effect: 0.0015, description: "Ability XP"},
     "Astral Embodiment": {name: "Astral Embodiment", maxXp: 100, effect: 0.0025, description: "Good Gain"},
@@ -132,7 +132,7 @@ const skillBaseData = {
 
 	"Absolute Wish": {name: "Absolute Wish", maxXp: 100, effect: 0.005, description: "Evil Gain"},
     "Void Amplification": {name: "Void Amplification", maxXp: 100, effect: 0.01, description: "The Void XP"},
-    "Mind Seize": {name: "Mind Seize", maxXp: 100, effect: 0.0005, description: "Reduced Happiness"},
+    "Mind Seize": {name: "Mind Seize", maxXp: 100, effect: 0.00005, description: "Happiness"},
 	"Ceaseless Abyss": {name: "Ceaseless Abyss", maxXp: 100, effect: 0.000585, description: "Longer Lifespan"},
 	"Void Symbiosis": {name: "Void Symbiosis", maxXp: 100, effect: 0.0015, description: "Ability XP"},
     "Void Embodiment": {name: "Void Embodiment", maxXp: 100, effect: 0.0025, description: "Evil Gain"},
